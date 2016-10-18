@@ -1,12 +1,12 @@
 {
   "name": "psadmin",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple test app for the React framework",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jacob Clouse",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^3.3.7",
