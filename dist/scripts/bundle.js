@@ -30195,9 +30195,9 @@ module.exports = Home;
 },{"react":157}],161:[function(require,module,exports){
 $ = jQuery = require('jQuery');
 var React = require('react');
-var Home = require('./components/homePage');
-var About = require('./components/about/aboutPage');
-var Header = require('./components/common/header');
+var Home = require('./components/homePage.jsx');
+var About = require('./components/about/aboutPage.jsx');
+var Header = require('./components/common/header.jsx');
 
 (function (win) {
     'use strict';
@@ -30229,4 +30229,4 @@ var Header = require('./components/common/header');
     render();
 })(window);
 
-},{"./components/about/aboutPage":158,"./components/common/header":159,"./components/homePage":160,"jQuery":1,"react":157}]},{},[161]);
+},{"./components/about/aboutPage.jsx":158,"./components/common/header.jsx":159,"./components/homePage.jsx":160,"jQuery":1,"react":157}]},{},[161]);
